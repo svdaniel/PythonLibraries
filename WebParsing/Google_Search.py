@@ -1,5 +1,18 @@
 #!/usr/bin/python
 
+###########################################################
+# Script Name:          Google_Search.py
+# Creator:              Daniel Svoboda
+# Description:          user inputs what & how much output google should return + stripped down only to return web links
+# Date of Creation:     2017-12-27
+# Last Modification:    2017-12-29
+# Modified by:          Daniel Svoboda
+# Modified:             added description
+# Version:              1.0
+# Notes:                
+###########################################################
+
+
 # Import Packages
 import requests
 from bs4 import BeautifulSoup
