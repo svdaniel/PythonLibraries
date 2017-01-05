@@ -1,5 +1,6 @@
 #!/usr/bin/python
 
+'''
 ###########################################################
 # Script Name:          Google_Search.py
 # Creator:              Daniel Svoboda
@@ -11,7 +12,7 @@
 # Version:              1.0
 # Notes:                
 ###########################################################
-
+'''
 
 # Import Packages
 import requests
